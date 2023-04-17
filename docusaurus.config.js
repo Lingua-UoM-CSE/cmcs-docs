@@ -7,7 +7,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Code-mixed Text Classification",
-  tagline: "cmcs classification",
+  tagline:
+    "The complete guide for code-mixed text classification using prompt-based learning..",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -79,7 +80,7 @@ const config = {
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/Lingua-UoM-CSE",
             label: "GitHub",
             position: "right",
           },
