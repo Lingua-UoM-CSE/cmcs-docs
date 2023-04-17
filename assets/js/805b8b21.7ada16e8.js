@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcmcs_docs=self.webpackChunkcmcs_docs||[]).push([[9311],{6649:s=>{s.exports=JSON.parse('{"permalink":"/cmcs-docs/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
