@@ -9,7 +9,7 @@ const config = {
   title: "Code-mixed Text Classification",
   tagline:
     "The complete guide for code-mixed text classification using prompt-based learning..",
-  favicon: "img/favicon.ico",
+  favicon: "img/122144686.png",
 
   // Set the production url of your site here
   url: "https://lingua-uom-cse.github.io",
@@ -69,7 +69,7 @@ const config = {
         title: "Lingua",
         logo: {
           alt: "Lingua-logo",
-          src: "img/logo.svg",
+          src: "img/122144686.png",
         },
         items: [
           {
@@ -129,7 +129,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Lingua UoM CSE.`,
       },
       prism: {
         theme: lightCodeTheme,
