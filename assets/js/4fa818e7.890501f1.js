@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcmcs_docs=self.webpackChunkcmcs_docs||[]).push([[389],{6260:s=>{s.exports=JSON.parse('{"label":"PromptEngineering","permalink":"/cmcs-docs/blog/tags/prompt-engineering","allTagsPath":"/cmcs-docs/blog/tags","count":1}')}}]);

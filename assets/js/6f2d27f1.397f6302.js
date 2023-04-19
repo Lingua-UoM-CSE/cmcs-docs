@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcmcs_docs=self.webpackChunkcmcs_docs||[]).push([[104],{2109:s=>{s.exports=JSON.parse('{"label":"Language models","permalink":"/cmcs-docs/blog/tags/language-models","allTagsPath":"/cmcs-docs/blog/tags","count":1}')}}]);
