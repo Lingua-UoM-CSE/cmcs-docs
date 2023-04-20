@@ -71,21 +71,21 @@ const config = {
           alt: "Lingua-logo",
           src: "img/122144686.png",
         },
-        // items: [
-        //   {
-        //     to: "/docs",
-        //     type: "docSidebar",
-        //     sidebarId: "tutorialSidebar",
-        //     position: "left",
-        //     label: "Docs",
-        //   },
-        //   { to: "/blog", label: "Blog", position: "left" },
-        //   {
-        //     href: "https://github.com/Lingua-UoM-CSE",
-        //     label: "GitHub",
-        //     position: "right",
-        //   },
-        // ],
+        items: [
+          {
+            to: "/docs",
+            type: "docSidebar",
+            sidebarId: "tutorialSidebar",
+            position: "left",
+            label: "Docs",
+          },
+          { to: "/blog", label: "Blog", position: "left" },
+          {
+            href: "https://github.com/Lingua-UoM-CSE",
+            label: "GitHub",
+            position: "right",
+          },
+        ],
       },
       footer: {
         style: "dark",
